@@ -3,5 +3,10 @@
         "name": "dashboard",
         "route": "dashboard",
         "icon": "fa-home"
+    },
+    {
+        "name": "otro",
+        "route": "dashboard",
+        "icon": "fa-home"
     }
 ]

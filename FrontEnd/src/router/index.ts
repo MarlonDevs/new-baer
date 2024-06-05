@@ -15,6 +15,11 @@ const routes = [
 				component: () => import('../views/dashboardPage.vue'),
 				name: 'dashboard',
 			},
+			{
+				path: '',
+				component: () => import('../views/dashboardPage.vue'),
+				name: 'otro',
+			},
 		],
 	},
 	// 404 Pagina no encontrada
